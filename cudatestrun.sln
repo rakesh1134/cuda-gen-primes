@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cudatestrun", "cudatestrun\cudatestrun.vcxproj", "{793F599D-8322-4447-ABB7-B93FC9697CFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793F599D-8322-4447-ABB7-B93FC9697CFD}.Debug|x64.ActiveCfg = Debug|x64
+		{793F599D-8322-4447-ABB7-B93FC9697CFD}.Debug|x64.Build.0 = Debug|x64
+		{793F599D-8322-4447-ABB7-B93FC9697CFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{793F599D-8322-4447-ABB7-B93FC9697CFD}.Debug|x86.Build.0 = Debug|Win32
+		{793F599D-8322-4447-ABB7-B93FC9697CFD}.Release|x64.ActiveCfg = Release|x64
+		{793F599D-8322-4447-ABB7-B93FC9697CFD}.Release|x64.Build.0 = Release|x64
+		{793F599D-8322-4447-ABB7-B93FC9697CFD}.Release|x86.ActiveCfg = Release|Win32
+		{793F599D-8322-4447-ABB7-B93FC9697CFD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D62B972B-23B9-4BD8-8577-B40ECAE855F8}
+	EndGlobalSection
+EndGlobal
